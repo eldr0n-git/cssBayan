@@ -130,4 +130,8 @@ h2 {
     }
 }
 @media screen and (min-width: 1920px) {
+    .bayan,
+    h1 {
+        width: var(--bayanWidth);
+    }
 }
