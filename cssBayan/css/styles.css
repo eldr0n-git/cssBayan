@@ -128,6 +128,9 @@ h2 {
         font-size: 1.8rem;
         letter-spacing: 0;
     }
+    h1 {
+        width: var(--bayanWidth);
+    }
 }
 @media screen and (min-width: 1921px) {
     h2 {
