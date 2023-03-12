@@ -128,6 +128,7 @@ h2 {
         font-size: 1.8rem;
         letter-spacing: 0;
     }
+    .bayan,
     h1 {
         width: var(--bayanWidth);
     }
